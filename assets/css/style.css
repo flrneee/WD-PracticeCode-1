@@ -1,0 +1,13 @@
+.details {
+display: flex;
+padding: 2rem;
+}
+
+.left {
+    width: 50vw;
+
+}
+
+.right {
+    width: 50vw;
+}
